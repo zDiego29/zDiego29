@@ -9,21 +9,21 @@ Me especializo en **moderación, gestión de servidores, organización de evento
 
 | Servidor         | Rol              | Usuarios Discord |
 |------------------|-----------------|----------------|
-| 💎 DiamondMC      | Owner            | +200           |
+| 💎 WeedCraft      | Patrocinador     | +2k           |
 | 💠 MineLC         | Co-Owner         | +20k           |
 | ☀️ SolarCraft     | Manager          | +8k            |
 | ⚡ Eclipse        | Administrador    | +10k           |
-| ⚔️ SummonCraft    | Moderador        | +3k            |
+| ⚔️ SummonCraft    | Moderador        | +5k            |
 | 🕸️ SpookMC        | Staff            | +40k           |
 | 🌿 MineBosh       | Staff            | +23k           |
 | 🎯 Tilted Network | Staff            | +14k           |
 | 💰 MineGold       | Helper           | +4k            |
 | ⚒️ MineKrust      | Soporte          | +1k            |
-ETC +30. 
+ETC +20. 
 
 **Highlights:**  
 - Servidores con hasta **+50k usuarios en Discord**  
-- Eventos con **300-500 jugadores simultáneos**  
+- **100-500 jugadores simultáneos**  
 - Experiencia como **Manager y Encargado de Staff**  
 - Manejo de **plugins básicos** como Essentials, LuckPerms y WorldEdit  
 
@@ -34,7 +34,7 @@ ETC +30.
 * Gestión de servidores y staff (+20 personas)  
 * Moderación y resolución de conflictos  
 * Organización de eventos y torneos  
-* Configuración y comandos avanzados de plugins  
+* Configuración y comandos avanzados  
 * Soporte rápido en Discord y tickets  
 * Patrocinio y aporte económico a proyectos  
 * Alta disponibilidad: **+8 horas activas diarias**
@@ -44,7 +44,7 @@ ETC +30.
 ## 🌐 Comunidades
 
 | Comunidad           | Usuarios Discord |
-|--------------------|----------------|
+|---------------------|----------------|
 | Perejil Community   | +27k           |
 | Tencito Community   | +21k           |
 | RW Nautic           | +10k           |
@@ -61,7 +61,7 @@ Seguir **mejorando como staff**, aportando **experiencia, organización y apoyo 
 
 ## 📬 Contacto
 
-*(En todas mis plataformas: `zDiego29`)*  
+*(Usuario En todas mis plataformas: `zDiego29`)*  
 
 * **Discord:** zDiego29  
 * **Correo:** zDiego29.staff@gmail.com  
