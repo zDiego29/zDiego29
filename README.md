@@ -35,6 +35,7 @@ Si el servidor me agrada y hay compromiso por parte del equipo, puedo incluso ay
 📬 Contacto:
 * Discord: zDiego29
 * Correo: zDiego29.staff@gmail.com
+
 🌐 Redes Sociales: 
 * Instagram: https://www.instagram.com/zdiego29?igsh=MTYzam5vaG5nc2xhMQ%3D%3D&utm_source=qr
 * X (Twitter): https://x.com/zdiego29_?s=21
