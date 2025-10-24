@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Diego, un staff experimentado con más de 3 años de experiencia moderando y gestionando servidores de Minecraft. Durante este tiempo he trabajado en más de 30 servidores, ocupando distintos roles como Owner, Co-Owner, Manager, Encargado de Staff, Patrocinador, Administrador, Moderador, Staff, Tilted Network Staff, Helper y Soporte.
+¡Hola! 👋 Soy Diego, un staff experimentado con más de 3 años de experiencia moderando y gestionando servidores de Minecraft. Durante este tiempo he trabajado en más de 30 servidores, ocupando distintos roles como Owner, Co-Owner, Manager, Encargado de Staff, Patrocinador, Administrador, Moderador, Staff, Staff, Helper y Soporte.
 Algunos de los servidores donde he formado parte incluyen:       (Usuarios en discord:
 * 💎 DiamondMC – Owner (200 usuarios)
 * 💠 MineLC – Co-Owner (20k usuarios)
