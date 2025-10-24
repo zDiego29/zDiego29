@@ -42,5 +42,4 @@ Si el servidor me agrada y hay compromiso por parte del equipo, puedo incluso ay
 * TikTok: https://www.tiktok.com/@zdiego29_?_t=ZS-90o4JepQeki&_r=1
 
 Minecraft Java; zDiego29
-
 Minecraft Bedrock; zDiego29Mc.
