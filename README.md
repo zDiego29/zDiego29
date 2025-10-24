@@ -36,7 +36,7 @@ ETC +20.
 * Organización de eventos y torneos  
 * Configuración y comandos avanzados  
 * Soporte rápido en Discord y tickets  
-* Patrocinio y aporte económico a proyectos  
+* Patrocinio y **aporte económico a proyectos**  
 * Alta disponibilidad: **+8 horas activas diarias**
 
 ---
