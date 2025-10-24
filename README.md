@@ -29,12 +29,15 @@ En la mayoría de los proyectos donde participo, suelo desempeñarme como Manage
 
 También he colaborado en diversas comunidades de Discord, como Tencito Community, Perejil Community, RW Nautic, entre otras. Me gusta apoyar los proyectos en los que trabajo, ya sea invirtiendo tiempo o recursos económicos, ayudando a que el servidor crezca y mantenga una buena gestión interna.
 Si el servidor me agrada y hay compromiso por parte del equipo, puedo incluso ayudar económicamente o patrocinar el desarrollo de nuevas modalidades o expansiones.
+
 💼 Objetivo: Seguir mejorando como staff, aportar experiencia, organización y apoyo real a los servidores en los que colabore.
 
-📬 Contacto y Redes Sociales 
-(En Todos lados mi usuario es es zDiego29).
+📬 Contacto:
 * Discord: zDiego29
 * Correo: zDiego29.staff@gmail.com
+🌐 Redes Sociales: 
 * Instagram: https://www.instagram.com/zdiego29?igsh=MTYzam5vaG5nc2xhMQ%3D%3D&utm_source=qr
 * X (Twitter): https://x.com/zdiego29_?s=21
 * TikTok: https://www.tiktok.com/@zdiego29_?_t=ZS-90o4JepQeki&_r=1
+Minecraft Java; zDiego29
+Minecraft Bedrock; zDiego29Mc.
