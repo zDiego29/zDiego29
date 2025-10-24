@@ -10,6 +10,7 @@ Algunos de los servidores donde he formado parte incluyen:       (Usuarios en di
 * 🍀MineBosh - Staff (23k usuarios) 
 * 💰 MineGold – Helper (4k usuarios)
 * ⚒️ MineKrust – Soporte (1k usuarios)
+
 He trabajado en servidores con +15k, +30k e incluso +50k usuarios en Discord. Algunos servidores donde he sido staff tenían más de 500 usuarios activos simultáneamente, llegando a 800 durante eventos especiales.
 En la mayoría de los proyectos donde participo, suelo desempeñarme como Manager o Encargado de Staff, gracias a mi experiencia en organización, liderazgo y manejo básico de plugins (Essentials, LuckPerms, WorldEdit, entre otros).
 
