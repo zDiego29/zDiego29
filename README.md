@@ -1,6 +1,6 @@
 # 👋🏻 Hola.
 
-Mi nombre es **Diego**. Soy de **México** (GMT-6) y soy jugador **premium** de **Minecraft Java y Bedrock**. Cuento con más de **6 años de experiencia jugando y más de 3 años siendo staff** en distintos servidores de **Minecraft**.
+Mi nombre es **Diego**, tengo **19 años** Soy de **México** (GMT-6) y soy jugador **premium** de **Minecraft Java y Bedrock**. Cuento con más de **6 años de experiencia jugando y más de 3 años siendo staff** en distintos servidores de **Minecraft**.
 
 **Me especializo en moderación, gestión de servidores, organización de eventos y soporte para comunidades de Discord y servidores de Minecraft**.
 
