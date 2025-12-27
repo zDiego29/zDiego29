@@ -1,6 +1,6 @@
 # 👋 Hola.
 
-Mi nombre es Diego. Soy de México (GMT-6) y soy jugador premium de Minecraft Java y Bedrock. Cuento con más de 6 años de experiencia jugando y más de 3 años formando parte del staff en distintos servidores de Minecraft.
+Mi nombre es **Diego**. Soy de **México** (GMT-6) y soy jugador **premium** de Minecraft Java y Bedrock. Cuento con más de 6 años de experiencia jugando y más de 3 años siendo staff en distintos servidores de **Minecraft**.
 Me especializo en moderación, gestión de servidores, organización de eventos y soporte para comunidades de Discord y servidores de Minecraft.
 
 ---
@@ -19,11 +19,11 @@ Me especializo en moderación, gestión de servidores, organización de eventos 
 | 🎯 Tilted Network | Staff            | +14k           |
 | 💰 MineGold       | Helper           | +4k            |
 | ⚒️ MineKrust      | Soporte          | +1k            |
-ETC +20. 
+**ETC** +20. 
 
 **Highlights:**  
-- Servidores con hasta **+50k usuarios en Discord**  
-- **100-500 jugadores simultáneos**  
+- Servidores con hasta **+40k usuarios en Discord**  
+- **100-400 jugadores simultáneos**  
 - Experiencia como **Manager y Encargado de Staff**  
 - Manejo de **plugins básicos** como Essentials, LuckPerms y WorldEdit  
 
