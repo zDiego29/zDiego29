@@ -1,7 +1,7 @@
 # 👋 Hola.
 
-Soy **Diego**, de México (GMT-6), jugador premium de **Minecraft Java y Bedrock** con **más de 5 años jugando** y **3 años como staff** en servidores grandes.  
-Me especializo en **moderación, gestión de servidores, organización de eventos y soporte en comunidades Discord**.
+Mi nombre es Diego. Soy de México (GMT-6) y soy jugador premium de Minecraft Java y Bedrock. Cuento con más de 6 años de experiencia jugando y más de 3 años formando parte del staff en distintos servidores de Minecraft.
+Me especializo en moderación, gestión de servidores, organización de eventos y soporte para comunidades de Discord y servidores de Minecraft.
 
 ---
 
