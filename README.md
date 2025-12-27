@@ -70,7 +70,7 @@ Seguir **mejorando como staff**, aportando **experiencia, organización y apoyo 
 * **Discord:** zDiego29  
 * **Correo:** zDiego29.staff@gmail.com  
 * **Instagram:** [@zDiego29](https://www.instagram.com/zDiego29)  
-* **X (Twitter):** [@zDiego29](https://twitter.com/zDiego29_)  
+* **X (Twitter):** [@zDiego29](https://x.com/zdiego29_?s=21)  
 * **TikTok:** [@zDiego29](https://www.tiktok.com/@zdiego29_)  
 * **Minecraft Java:** zDiego29  
 * **Minecraft Bedrock:** zDiego29Mc
