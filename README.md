@@ -4,7 +4,7 @@ Mi nombre es **Diego**, tengo **19 años** Soy de **México** (GMT-6) y soy juga
 
 **Me especializo en moderación, gestión de servidores, organización de eventos y soporte para comunidades de Discord y servidores de Minecraft**.
 
-📱Mi situacion actual:
+📱**Mi situacion actual**:
 Actualmente solo juego en **Bedrock** **(Celular y iPad)**, ya que mi **PC no esta funcionando**. Por ahora **no ayudo a configurar servidores**; únicamente me encargo de **moderar y administrar el servidor** y al **equipo de staff**. No afecta en mi actividad diaria.
 
 ---
