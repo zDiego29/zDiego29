@@ -4,6 +4,8 @@ Mi nombre es **Diego**. Soy de **México** (GMT-6) y soy jugador **premium** de 
 
 **Me especializo en moderación, gestión de servidores, organización de eventos y soporte para comunidades de Discord y servidores de Minecraft**.
 
+📱Mi situacion actual:
+Actualmente solo juego en celular y iPad, ya que mi PC está fuera de servicio. Por el momento no realizo configuraciones de servidores; me encargo únicamente de la moderación y la gestión del servidor y del equipo de staff. Me mantengo activo durante el día.
 ---
 
 ## 🏆 Experiencia Destacada
