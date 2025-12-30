@@ -15,14 +15,14 @@ Actualmente solo juego en **Bedrock** **(Celular y iPad)**, ya que mi **PC no es
 |------------------|-----------------|----------------|
 | 💎 WeedCraft      | Patrocinador     | +2k           |
 | 💠 MineLC         | Co-Owner         | +20k           |
-| ☀️ SolarCraft     | Manager          | +8k            |
+| ☀️ SolarCraft     | Manager          | +9k            |
 | ⚡ Eclipse        | Administrador    | +10k           |
 | ⚔️ SummonCraft    | Moderador        | +5k            |
-| 🕸️ SpookMC        | Staff            | +40k           |
-| 🌿 MineBosh       | Staff            | +23k           |
-| 🎯 Tilted Network | Staff            | +14k           |
-| 💰 MineGold       | Helper           | +4k            |
-| ⚒️ MineKrust      | Soporte          | +1k            |
+| 🕸️ SpookMC        | Staff            | +42k           |
+| 🌿 MineBosh       | Staff            | +24k           |
+| 🎯 Tilted Network | Staff            | +15k           |
+| 💰 MineGold       | Helper           | +5k            |
+| ⚒️ MineKrust      | Soporte          | +1.5k            |
 **ETC** +20. 
 
 **Highlights:**  
