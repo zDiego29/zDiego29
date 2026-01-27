@@ -13,8 +13,8 @@ Actualmente solo juego en **Bedrock** **(Celular y iPad)**, ya que mi **PC no es
 
 | Servidor         | Rol              | Usuarios Discord |
 |------------------|-----------------|----------------|
-| 💎 WeedCraft      | Patrocinador     | +2k           |
-| 💠 MineLC         | Manager          | +20k           |
+| 💎 WeedCraft      | Patrocinador     | +3k           |
+| 💠 MineLC         | CoOwner          | +20k           |
 | ☀️ SolarCraft     | Manager          | +9k            |
 | ⚡ Eclipse        | Administrador    | +10k           |
 | ⚔️ SummonCraft    | Moderador        | +5k            |
