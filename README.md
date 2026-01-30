@@ -23,7 +23,7 @@ Actualmente solo juego en **Bedrock** **(Celular y iPad)**, ya que mi **PC no es
 | 🎯 Tilted Network | Staff            | +15k           |
 | 💰 MineGold       | Helper           | +5k            |
 | ⚒️ MineKrust      | Soporte          | +1.5k            |
-**ETC** +20. 
+**ETC** +10. 
 
 **Highlights:**  
 - Servidores con hasta **+40k usuarios en Discord**  
